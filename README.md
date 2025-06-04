@@ -92,9 +92,4 @@ Design a website that adapts seamlessly to different screen sizes and devices.
 
 ## 📎 License
 
-This project is intended for educational purposes and does not have a specified license.
-
-
-
-
-
+This project is licensed under the MIT License.
