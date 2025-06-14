@@ -2,11 +2,10 @@
 
 A responsive web application developed as the final project for the *Basic Web Development* course (course code: 1929878). The project, nicknamed **Capivarinha**, simulates a betting website and incorporates key web development technologies and practices learned throughout the semester.
 
----
-
 ## 🧩 Project Overview
 
-**Purpose:**  
+**Purpose:** 
+
 To apply foundational web development skills by creating a functional and interactive betting website using HTML, CSS, and JavaScript.
 
 **Technologies Used:**
@@ -14,8 +13,6 @@ To apply foundational web development skills by creating a functional and intera
 - **CSS3:** Styling and responsive design.
 - **JavaScript (ES6):** Implementing interactivity and client-side logic.
 - **LocalStorage API:** Managing user data persistence on the client side.
-
----
 
 ## 🗂️ Project Structure
 
@@ -32,10 +29,7 @@ BasicWebDevelopment/
 └── README.md
 ```
 
-
 *Note: The actual file names and structure may vary. Please refer to the repository for the exact details.*
-
----
 
 ## 🎮 Key Features
 
@@ -50,8 +44,6 @@ BasicWebDevelopment/
 
 - **Betting Functionality:**  
   Simulates a betting system where users can place bets and view outcomes.
-
----
 
 ## 🚀 Getting Started
 
@@ -75,8 +67,6 @@ cd BasicWebDevelopment
 3. Open the Application:
 Open ```src/index.html``` in your preferred web browser to view and interact with the application.
 
----
-
 ## 📌 Educational Objectives
 
 - Apply Web Development Skills:
@@ -87,8 +77,6 @@ Learn how to use the localStorage API for persisting user data on the client sid
 
 - Implement Responsive Design:
 Design a website that adapts seamlessly to different screen sizes and devices.
-
----
 
 ## 📎 License
 
