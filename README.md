@@ -1,10 +1,7 @@
 # Capivarinha – Basic Web Development Final Project
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![HTML](https://img.shields.io/badge/Built_with-HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JS](https://img.shields.io/badge/JavaScript-yellow)
-
+![JS](https://img.shields.io/badge/Built_with-JavaScript-yellow)
 
 A responsive web application developed as the final project for the *Basic Web Development* course (course code: 1929878). The project, nicknamed **Capivarinha**, simulates a betting website and incorporates key web development technologies and practices learned throughout the semester.
 
