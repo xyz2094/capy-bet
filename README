@@ -14,8 +14,8 @@ bets and view outcomes.
 
 How to run:
 
-    > git clone https://github.com/vittordallacqua/BasicWebDevelopment.git
-    > cd BasicWebDevelopment
+    > git clone https://github.com/vittordallacqua/capy-bet.git
+    > cd capy-bet
     > open src/index.html
   
 This project is licensed under the MIT License.
