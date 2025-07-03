@@ -1,5 +1,4 @@
-CapyBet web-dev project
-=======================
+### CapyBet web-dev project
 
 A responsive web application developed as the final project for the 
 Basic Web Development class. It simulates a betting website and 
