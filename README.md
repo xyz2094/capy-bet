@@ -12,9 +12,8 @@ allows users to register and log in with credentials stored using the
 bets and view outcomes.
 
 How to run:
-
+```bash
     > git clone https://github.com/vittordallacqua/capy-bet.git
     > cd capy-bet
     > open src/index.html
-  
-This project is licensed under the MIT License.
+```
