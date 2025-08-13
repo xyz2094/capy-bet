@@ -13,7 +13,7 @@ bets and view outcomes.
 
 How to run:
 ```bash
-    > git clone https://github.com/vittordallacqua/capy-bet.git
-    > cd capy-bet
-    > open src/index.html
+> git clone https://github.com/vittordallacqua/capy-bet.git
+> cd capy-bet
+> open src/index.html
 ```
